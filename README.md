@@ -1,3 +1,3 @@
 # cvc
 
-![](src/covid_vax_record.PNG)
+![](src/covid_vaxx_card.png)
